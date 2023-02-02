@@ -1,0 +1,12 @@
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.DS_Store
+!/vendor
+
+/vendor
+!/vendor/laravel/ui/auth-backend/*
+/vendor/composer
+composer.json
+composer.lock
